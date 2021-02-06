@@ -1,2 +1,2 @@
-# go-parallel
+# Go parallel
 A simple Go parallel programming using the library pargo
